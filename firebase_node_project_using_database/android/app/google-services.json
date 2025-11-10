@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "412547812268",
+    "firebase_url": "https://note-project-f81ff-default-rtdb.firebaseio.com",
+    "project_id": "note-project-f81ff",
+    "storage_bucket": "note-project-f81ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412547812268:android:aec5da4744ad55363dc809",
+        "android_client_info": {
+          "package_name": "com.iftee1.firebase_node_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtN0AqwREvmwL2ruJV3xTv9fVJ8DXxMLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412547812268:android:1f79092fc4b6cd233dc809",
+        "android_client_info": {
+          "package_name": "com.iftee1.firebase_note_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtN0AqwREvmwL2ruJV3xTv9fVJ8DXxMLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
